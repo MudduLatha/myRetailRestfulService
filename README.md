@@ -69,7 +69,7 @@ In the body section select the data type as JSON and then copy the below JSON da
     "productId": 13860428,
     "productName": "The Big Lebowski (Blu-ray)",
     "priceDetails": {
-        "price": 55.55,
+        "price": 14.59,
         "currency": "USD"
     }
 }
