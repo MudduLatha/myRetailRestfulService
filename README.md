@@ -27,9 +27,9 @@ https://www.datastax.com/2012/01/working-with-apache-cassandra-on-mac-os-x
 2.	Start the Cassandra server with the command “./cassandra” by navigating to the bin directory in the Cassandra folder.
 3.	Run the following command
 
-cqlsh -f database_creation.cql
+cqlsh -f cassandra_database.cql
 
-to create the key space, table and insert data into the table. The database_creation.cql file is present in the cassandra folder.
+to create the key space, table and insert data into the table. The cassandra_database.cql file is present in the cassandra folder.
 
 
 **Steps to start webservices server:**
