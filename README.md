@@ -35,7 +35,9 @@ to create the key space, table and insert data into the table. The database_crea
 **Steps to start webservices server:**
 
 •	Cassandra should be running on port number that was mentioned in the properties file before starting the webservices server.
+
 •	Clone the project and then import the project as maven project into the spring tool suite.
+
 •	Right click on the project and run it as a spring boot application which runs the application on port 8080.
 
 
