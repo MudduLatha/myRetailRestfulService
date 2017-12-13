@@ -6,8 +6,8 @@ AND durable_writes = true;
 CREATE TABLE IF NOT EXISTS myretail.productprices (
    	productID bigint,
    	price float,
-    	currency text,
-    	PRIMARY KEY (productID)
+    currency text,
+    PRIMARY KEY (productID)
 );
 
 
